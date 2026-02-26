@@ -82,7 +82,3 @@ Além das linhas de código, sou:
 *“Buscando sempre contribuir com arquiteturas escaláveis e as melhores práticas do mercado.”* 
 
 ---
-
-Lembre-se que você pode sempre me avisar aqui no chat se qualquer informação precisar de ajuste ou se quiser mudar o estilo visual.
-
-**Essa estrutura com as tabelas e os cartões dinâmicos ficou mais próxima do que você imaginou para o seu perfil?**
